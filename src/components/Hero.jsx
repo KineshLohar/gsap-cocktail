@@ -104,7 +104,7 @@ const Hero = () => {
             <div className="video">
                 <video
                     ref={videoRef}
-                    src="/videos/input.mp4"
+                    src="/videos/output.mp4"
                     muted
                     preload="auto"
                     playsInline
